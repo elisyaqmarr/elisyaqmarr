@@ -1,6 +1,14 @@
-# Hi there, Elisya here,
+<h1 align="center">Hi there 👋, I'm Siti Nur Elisya Aqmar</h1>
 
-I am a Bachelor of Science, Industrial Mathematics student who graduated in 2023 and I am currently pursuing my Master's in Data Science. I specialize in statistical quality control, applied mathematics, and financial mathematics. I'm enthusiastic about expanding my knowledge in data analytics, and related fields.
+<p align="center">
+  🎓 Industrial Mathematics Graduate | 💼 Aspiring Data Analyst | 📊 Passionate about Statistics & Finance  
+</p>
+
+<p align="center">
+  <a href="mailto:elisyaatwork@gmail.com"><img src="https://img.shields.io/badge/Email-elisyaatwork@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+  <img src="https://img.shields.io/badge/Location-Johor_Bahru,_Malaysia-green?style=flat-square">
+</p>
 
 ---
 
@@ -43,7 +51,6 @@ I am a Bachelor of Science, Industrial Mathematics student who graduated in 2023
 - 🎤 Jazz Chant Competitions: 2nd Runner-Up (2018)
 - 👧 Program Bersama Anak-anak Yatim (Participant, 2018)
 
----
 
 ## 💬 Extra-Curricular Activities
 
