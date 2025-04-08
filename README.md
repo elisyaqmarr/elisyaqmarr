@@ -32,3 +32,25 @@ I am a Bachelor of Science, Industrial Mathematics student who graduated in 2023
 - 📊 **Microsoft Excel** (Data Analysis, Pivot Tables, VBA)  
 - 📈 **R** (Statistical Modeling, Data Visualization)  
 - 🔬 **MATLAB** (Numerical Computing, Simulations)  
+
+## 🏅 Recognition & Achievements
+
+- 🏆 Dean’s List (Sem 1 – 5, Sem 8)
+- 🥇 Simon Marais Competition 2021 (Participant)
+- 👩‍💻 Coding-Generation Programme 2021 (Cgp'21)
+- 🧠 Poster Competition: Boost Your Mental Health (2021)
+- 🧪 Chemistry Competition: 2nd Runner-Up (2019)
+- 🎤 Jazz Chant Competitions: 2nd Runner-Up (2018)
+- 👧 Program Bersama Anak-anak Yatim (Participant, 2018)
+
+---
+
+## 💬 Extra-Curricular Activities
+
+- **Secretary**, KTF Kasih Ramadhan (2022)
+- **Grand Treasurer**, Gotong-Royong & Iftar Ramadhan (2021)
+- **Technical Unit**, Minggu Mesra Mahasiswa & Youth Business Talk (2021)
+- **Special Task Unit**, Sayangi Malaysiaku (2021)
+- **Multimedia Unit**, Majlis Penghargaan JKM 19/20 (2021)
+- **Protocol Unit**, IPT String Talent & Eco-week (2021)
+- **Exco**, Kolej Tun Fatimah Sports & Recreation (2020)
